@@ -580,3 +580,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.18-14.37.05:370][696]LogDirectoryWatcher: A directory notification failed for 'D:/민경이꺼(건들지 말것)/testtest/-/테스트 언리얼/test/Content/Collections/' because it could not be accessed. Aborting watch request...
 [2020.01.18-14.37.05:370][696]LogDirectoryWatcher: A directory notification failed for 'D:/민경이꺼(건들지 말것)/testtest/-/테스트 언리얼/test/Content/Developers/HOME/Collections/' because it could not be accessed. Aborting watch request...
 [2020.01.18-14.37.05:370][696]LogDirectoryWatcher: A directory notification failed for 'D:/민경이꺼(건들지 말것)/testtest/-/테스트 언리얼/test/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2020.01.18-14.38.21:839][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-14.38.23:784][426]LogSlate: Took 0.015285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.18-14.38.23:801][426]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.01.18-14.38.24:387][426]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.01.18-14.38.25:617][426]LogSlate: Took 0.004927 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.18-14.38.25:991][427]LogSlate: Took 0.000989 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.18-14.39.05:858][661]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.01.18-14.39.05:862][661]LogSlate: Window '2DSideScrollerCharacter' being destroyed
