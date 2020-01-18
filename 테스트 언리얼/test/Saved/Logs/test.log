@@ -590,3 +590,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.18-14.39.05:862][661]LogSlate: Window '2DSideScrollerCharacter' being destroyed
 [2020.01.18-14.39.39:270][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2020.01.18-14.39.39:417][971]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.01.18-14.43.12:134][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-14.43.19:707][311]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.01.18-14.43.19:711][311]LogSlate: Window '2DSideScrollerCharacter' being destroyed
