@@ -606,3 +606,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.18-14.45.23:749][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2020.01.18-14.45.23:833][ 56]LogSlate: Window '2DSideScrollerCharacter' being destroyed
 [2020.01.18-14.45.23:837][ 56]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.01.18-14.45.52:136][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.18-14.45.52:250][323]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.01.18-14.45.56:394][669]LogEditorTransaction: Undo 현 선택을 삭제합니다.
+[2020.01.18-14.46.23:843][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.01.18-14.46.24:217][ 11]LogSavePackage: Moving '../../../../../testtest/-/테스트 언리얼/test/Saved/2DSideScrollerExampleMap_Auto122B60592487AD2948C00B2AEB7714D44.tmp' to '../../../../../testtest/-/테스트 언리얼/test/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto1.umap'
+[2020.01.18-14.46.24:222][ 11]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.439
+[2020.01.18-14.46.24:222][ 11]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.439
+[2020.01.18-14.46.24:225][ 11]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter] ([1] browsable assets)...
+[2020.01.18-14.46.24:225][ 11]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter]
+[2020.01.18-14.46.24:264][ 11]LogSavePackage: Moving '../../../../../testtest/-/테스트 언리얼/test/Saved/2DSideScrollerCharacter_Auto1719EB7874E0D7C8898A21481D0998F74.tmp' to '../../../../../testtest/-/테스트 언리얼/test/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto1.uasset'
+[2020.01.18-14.46.24:265][ 11]LogFileHelpers: Auto-saving content packages took 0.042
+[2020.01.18-14.47.00:436][120]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.18-14.49.00:263][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 2
